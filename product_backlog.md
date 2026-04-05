@@ -1,9 +1,12 @@
 # Login/Registration #
   login_registration_stories.md
     ** The title of the user story** 
+       Account Registration
     ** A brief description **
+      User can register using name, username, age, and country to create an account.
     ** The labels applied **
-# Home Page #
+      enhancement, priority: high
+  # Home Page #
   homepage_user_stories.md
   ** The title of the user story** 
     ** A brief description **
