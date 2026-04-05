@@ -6,6 +6,7 @@
       User can login /register using name, username, age, and country to create an account.
     ** The labels applied **
       enhancement, priority: high
+ 
   # Home Page #
   homepage_user_stories.md
     ** The title of the user story** 
@@ -75,5 +76,14 @@
 # Reports #
   reports_user_stories.md
     ** The title of the user story** 
-    ** A brief description **
-    ** The labels applied **
+        View Weekly Reports
+        Description: Displays weekly progress of habits.
+        Labels: enhancement, priority: high
+    ** The title of the user story** 
+        Visualize Completed Habits
+        Description: Shows graphical representation of completed habits.
+        Labels: enhancement, priority: medium
+    ** The title of the user story** 
+        View All Habits
+        Description: Displays both completed and incomplete habits.
+        Labels: enhancement, priority: medium
