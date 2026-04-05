@@ -1,7 +1,6 @@
 # User Stories for Homepage
 
 ---
-
 ## User Story 1: View Welcome Message
 
 **Title:** View Welcome Message  
