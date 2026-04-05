@@ -1,11 +1,17 @@
 # Login/Registration #
   login_registration_stories.md
     ** The title of the user story** 
-       Account Registration
-    ** A brief description **
-      User can login /register using name, username, age, and country to create an account.
-    ** The labels applied **
-      enhancement, priority: high
+      Account Registration
+      Description: User can register using name, username, age, and country to create an account.
+      Labels: enhancement, priority: high
+    ** The title of the user story** 
+      Account Login
+      Description: User can log in using username and password to access their account.
+      Labels: enhancement, priority: high
+    ** The title of the user story** 
+      Error Feedback on Login
+      Description: System shows error message when incorrect login credentials are entered.
+      Labels: enhancement, priority: medium
  
   # Home Page #
   homepage_user_stories.md
