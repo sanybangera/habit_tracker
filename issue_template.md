@@ -1,7 +1,7 @@
 # User Story Template
 
-**Title:**
-_As a [user role], I want [feature/goal], so that [reason]._
+**Account registration**
+_As a user, I want to register with my name, username, age, and country so that I can create an account and access the habit tracking features._
 
 **Acceptance Criteria:**
 1. [Criteria 1]
