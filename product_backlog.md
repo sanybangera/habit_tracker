@@ -43,8 +43,18 @@
   
   notifications_user_stories.md
     ** The title of the user story** 
-    ** A brief description **
-    ** The labels applied **
+      Enable/Disable Notifications
+      Description: Allows user to turn notifications on or off.
+      Labels: enhancement, priority: high
+    ** The title of the user story** 
+      Select Habits for Notifications
+      Description: User can choose specific habits to receive reminders.
+      Labels: enhancement, priority: high
+    ** The title of the user story** 
+      Set Notification Times
+      Description: Allows user to receive reminders at morning, afternoon, and evening.
+      Labels: enhancement, priority: medium
+ 
   profile_user_stories.md
     ** The title of the user story** 
     ** A brief description **
