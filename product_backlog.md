@@ -57,8 +57,21 @@
  
   profile_user_stories.md
     ** The title of the user story** 
-    ** A brief description **
-    ** The labels applied **
+        View Personal Information
+        Description: Displays user details like name, username, age, and country.
+        Labels: enhancement, priority: high
+   ** The title of the user story**
+        Edit Personal Information
+        Description: Allows user to update personal details.
+        Labels: enhancement, priority: high
+    ** The title of the user story**
+        Save Updated Information
+        Description: Saves changes made to profile data.
+        Labels: enhancement, priority: high
+    ** The title of the user story**
+        Update Name in Header
+        Description: Reflects updated name in application header.
+        Labels: enhancement, priority: medium
 # Reports #
   reports_user_stories.md
     ** The title of the user story** 
