@@ -1,6 +1,6 @@
 # User Story Template
 
-**Account registration**
+**Title:**
 _As a [user role], I want [feature/goal], so that [reason]._
 
 **Acceptance Criteria:**
