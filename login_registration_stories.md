@@ -1,7 +1,5 @@
 # User Stories for Login & Registration
-
 ---
-
 ## User Story 1: Account Registration
 
 **Title:** Account Registration  
